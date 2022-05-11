@@ -16,7 +16,7 @@
 #Brief: This script calls to video_correction program compiled in a Linux System with the configured parameters:
 
 #inpug.png/input.avi: input image or video
-input="test.avi"
+input="input.avi"
 
 #output without name extension, the image output will named otput_(frame_number).png, if it is a  video: output.avi and the lens distortion model will be named output.ldm
 output="output"
